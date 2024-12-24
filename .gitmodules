@@ -1,0 +1,6 @@
+[submodule "src/share/rtl-sdr"]
+	path = src/share/rtl-sdr
+	url = git@github.com:YanMaramzin/RTL-SDR-Receiver.git
+[submodule "src/share/spdlog"]
+	path = src/share/spdlog
+	url = git@github.com:gabime/spdlog.git
